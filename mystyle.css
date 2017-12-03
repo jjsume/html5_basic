@@ -1,0 +1,45 @@
+body {
+	background-color:RGB(214,214,214);
+}
+
+h1 {
+	color: navy;
+	margin-left: 20%;
+}
+
+p {
+	margin-left: 20%;
+	
+}
+
+p.left {
+	margin-left: 20%;
+	color:red;
+}
+
+p.leftB {
+	margin-left: 20%;
+	color:green;
+}
+
+div.menu {
+	background-color: gray;
+	margin-top: 10%;
+}
+
+div.footer {
+	background-color: gray;
+	
+
+	
+}
+
+a {
+	 color: hotpink;
+	 text-decoration: none;
+	 margin-left:20%;
+	
+}
+
+
+
