@@ -41,5 +41,18 @@ a {
 	
 }
 
+form {
+	margin-left: 20%;
+
+}
+
+input {
+		background-color:green;
+		color:navy;
+}
+button {
+	background-color:green;
+	color:navy;
+}
 
 
