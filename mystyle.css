@@ -12,6 +12,10 @@ p {
 	
 }
 
+p.results {
+	margin-left: 20%;
+}
+
 p.left {
 	margin-left: 20%;
 	color:red;
